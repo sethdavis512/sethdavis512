@@ -1,5 +1,6 @@
 ### Howdy y'all 👋🤠
 
-- 🔭 I’m currently working on side projects with Remix & Keystone.js
-- 📫 How to reach me: [Twitter](https://twitter.com/sethdavis512)
-- ⚡ Fun fact: I'm an EV enthusiast
+- ✏️ Currently working on side projects with Remix & Keystone.js
+- ⚽️ Austin FC soccer fan
+- ⚡ EV enthusiast
+- 📫 Reach out on [Twitter](https://twitter.com/sethdavis512)
