@@ -1,6 +1,6 @@
 # Howdy y'all 👋🤠
 
-- ✍🏻 [Portfolio site](https://sethdavis.io/)
+- ✍🏻 [Portfolio site](https://sethdavis.tech/)
 - ✏️ Currently working on side projects with [Remix](https://remix.run/)
 - ⚽️ Austin FC soccer fan
 - ⚡ EV enthusiast
