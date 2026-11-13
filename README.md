@@ -2,14 +2,14 @@
 
 Senior Frontend Engineer based in Austin, Texas. Native Austinite of 30+ years, husband and father, and a relentless learner.
 
-✍🏻 [Portfolio site](https://sethdavis.tech/)  
-🤖 Building agent-native apps with React Router, Mastra, and MCP  
-🛒 Practical guides for developers at [Tech with Seth](https://techwithseth.com)  
+✍🏻 Portfolio and field notes at [sethdavis.tech](https://sethdavis.tech/)  
+🤖 Building agent-native apps with React Router  
+🛒 Practical developer guides at [Tech with Seth](https://techwithseth.com)  
 🎓 Mentoring AI professionals at [A.I. Maniacs](https://ai-maniacs.com)  
 📅 Contributor to the [Remix Austin](https://www.meetup.com/remix-austin/) meetup  
 ⚽️ Austin FC supporter (Verde hasta la muerte)  
-⚡ EV enthusiast and Rivian fan  
-📫 Reach out on [BlueSky](https://bsky.app/profile/sethdavis.tech)
+⚡ Electric vehicle enthusiast and Rivian fan  
+📫 Say howdy on BlueSky at [@sethdavis.tech](https://bsky.app/profile/sethdavis.tech)
 
 ## Featured projects
 
